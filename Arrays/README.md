@@ -17,12 +17,7 @@ The problems start from basics and gradually move to interview-level questions.
 \## 📌 Problems List
 
 
-
-| Q.No | Problem Name                         |
-
------------------------------------------------
-
-| Q01  | Find the largest element in an array |
+Q01. Find the largest element in an array.
 
 
 
