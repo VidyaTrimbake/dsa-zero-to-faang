@@ -18,9 +18,9 @@ The problems start from basics and gradually move to interview-level questions.
 
 
 
-| Q.No | Problem Name |
+| Q.No | Problem Name                         |
 
-|-----:|--------------|
+-----------------------------------------------
 
 | Q01  | Find the largest element in an array |
 
