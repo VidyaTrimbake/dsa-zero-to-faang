@@ -1,7 +1,7 @@
 /*
  * File Name   : Q01_find_largest_element.java
  * Topic      : Arrays
- * Problem    : Check wether array is sorted or not
+ * Problem    : Check whether array is sorted or not
  * Input      : {10, 50, 67, 9, 45, 3}
  * Output     : Not Sorted
  *
